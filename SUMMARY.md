@@ -27,6 +27,7 @@
 * [第六章 文件系统](chapter06/06.0.md)
  - 6.1 [os — 平台无关的操作系统功能实现](chapter06/06.1.md)
  - 6.2 [path/filepath — 操作路径](chapter06/06.2.md)
+ - 6.3 [io/fs - 抽象文件系统](chapter06/06.3.md)
 * [第七章 数据持久存储与交换](chapter07/07.0.md)
  - 7.1 [database/sql — SQL/SQL-Like 数据库操作接口](chapter07/07.1.md)
  - 7.2 encoding/json — json 解析
@@ -43,7 +44,7 @@
 * [第九章 测试](chapter09/09.0.md)
  - 9.1 [testing - 单元测试](chapter09/09.1.md)
  - 9.2 [testing - 基准测试](chapter09/09.2.md)
- - 9.3 [testing - 子测试](chapter09/09.3.md)
+ - 9.3 [testing - 子测试与子基准测试](chapter09/09.3.md)
  - 9.4 [testing - 运行并验证示例](chapter09/09.4.md)
  - 9.5 [testing - 其他功能](chapter09/09.5.md)
  - 9.6 [httptest - HTTP 测试辅助工具](chapter09/09.6.md)
